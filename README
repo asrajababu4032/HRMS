@@ -1,0 +1,26 @@
+README.md
+# Construction HRMS QA Assignment
+
+This repository contains my submission for the DeepThought QA Engineer assignment.
+
+## Objectives
+
+* Build a quality strategy for a construction HRMS.
+* Design acceptance criteria.
+* Perform exploratory and negative testing.
+* Build regression and automated test suites.
+* Implement CI/CD quality gates.
+
+## Repository Structure
+
+```
+test-strategy.md
+quality-reflection.md
+specs/
+bug-reports/
+tests/
+test-data/
+.github/
+```
+
+The primary goal of this project is to protect the payroll pipeline and reduce production failures that directly affect construction workers.
